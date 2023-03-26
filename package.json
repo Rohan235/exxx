@@ -2,6 +2,7 @@
     "name": "forkify",
     "version": "2.0.0",
     "description": "search over 1m recipes, bookmark them, add new ones, plan your meals for the week and much more",
+    "type": "module",
     "default": "index.html",
     "scripts": {
         "watch:sass": "node-sass src/sass/main.scss src/css/main.css -w",
